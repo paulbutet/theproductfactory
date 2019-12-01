@@ -1,0 +1,25 @@
+.footer{
+	background-color: #65C9FF;
+    padding: 10px 0px;
+    color:white;
+	}
+
+
+.footer h4, h5{
+	 
+text-align : left;
+padding-left : 10px;
+line-height: 1px;
+}
+
+.footer a {
+	text-align : left;
+	color:black;
+	background-color: white;
+	padding: 15px 20px;
+	border-radius: 6px;
+	font-weight: bold;
+	font-family: 'Montserrat', serif;
+	font-size: 16px;
+}
+

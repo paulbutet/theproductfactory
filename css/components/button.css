@@ -1,0 +1,13 @@
+.btn-typeform {
+	background-color: #65C9FF;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color:white;
+	font-weight: bold;
+	font-family: 'Montserrat', serif;
+	font-size: 16px;
+}
+
+a {
+	text-decoration: none;
+}

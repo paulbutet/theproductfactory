@@ -1,0 +1,25 @@
+.card-equipe{
+	 
+     background-color: #1B1411;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    color : white;
+    }
+
+.card-equipe img {
+	width: 90px;
+	border-radius: 6px;
+}
+
+.card-equipe h3{
+	text-align: left;
+	margin-left: 10px;
+}
+
+
+.card-equipe p{
+	text-align: left;
+}
+
